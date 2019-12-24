@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>Aventude.Demo.eShop.Domain</AssemblyName>
+    <RootNamespace>Aventude.Demo.eShop.Domain</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\eShop.Core\eShop.Core.csproj" />
+  </ItemGroup>
+
+</Project>
